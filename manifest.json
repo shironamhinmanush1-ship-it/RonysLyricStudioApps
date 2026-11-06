@@ -1,0 +1,19 @@
+{
+  "name": "LyricCraft Studio",
+  "short_name": "LyricCraft",
+  "description": "Android-style studio for lyric video creation, AI video generation, image editing, prompt engineering, and script writing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230f172a'/><path d='M35 70V30l30-10v40' stroke='%2338bdf8' stroke-width='8' fill='none' stroke-linecap='round'/><circle cx='25' cy='70' r='10' fill='%2338bdf8'/><circle cx='55' cy='60' r='10' fill='%2338bdf8'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "productivity", "utilities"]
+}

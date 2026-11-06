@@ -1,0 +1,6 @@
+{
+  "name": "LyricCraft Studio",
+  "description": "Android-style studio for lyric video creation, AI video generation, image editing, prompt engineering, and script writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
